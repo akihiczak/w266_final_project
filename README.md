@@ -1,5 +1,5 @@
 # W266 Final Project
 
-* Test1
-* Test2
-* Test3
+* Example_Processed_Datasets: The files for our final model architecture had to be in a custom JSONLines Format. This contains some examples of the sentence alignment pairings that we had/used.
+* Final_Model_Work_and_Architechture: This contains the code for running our modified script -- using the MBart model -- (run_translation.py could be called for training and testing) as well as the code we used to convert the csv data into JSONLines format.
+* Initial_Model_Work: This contains all the code used in the BERT as an encoder and decoder structure.
